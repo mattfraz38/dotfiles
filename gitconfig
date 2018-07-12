@@ -48,4 +48,6 @@
   mergeoptions = --no-edit
 [user]
 	email = frazier3388@yahoo.com
-	name = Matt Frazier
+	name = Matthew Frazier
+[credential]
+	helper = cache
